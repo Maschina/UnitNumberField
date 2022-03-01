@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6613C15627956D30000DFB94"
-               BuildableName = "SwiftUITests1.app"
+               BuildableName = "UnitNumberField.app"
                BlueprintName = "UnitNumberField"
                ReferencedContainer = "container:UnitNumberField.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6613C15627956D30000DFB94"
-            BuildableName = "SwiftUITests1.app"
+            BuildableName = "UnitNumberField.app"
             BlueprintName = "UnitNumberField"
             ReferencedContainer = "container:UnitNumberField.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6613C15627956D30000DFB94"
-            BuildableName = "SwiftUITests1.app"
+            BuildableName = "UnitNumberField.app"
             BlueprintName = "UnitNumberField"
             ReferencedContainer = "container:UnitNumberField.xcodeproj">
          </BuildableReference>
