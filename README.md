@@ -1,5 +1,5 @@
 # UnitNumberField
-A customized text field for unit-based number for SwiftUI and AppKit (macOS). Allows number only and validates the user input.
+A customized text field for unit-based number input for SwiftUI and AppKit (macOS). Allows user to input numbers only and validates it, respectively.
 Similar to the input field in Sketch.
 
 ![Screenshot](Sources/doc/screen1.png)
